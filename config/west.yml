@@ -8,4 +8,4 @@ manifest:
       revision: main
       import: app/west.yml
   self:
-    pathw confif sdfdddwerwweewaasdfasdfasdfsåß∂ƒßasdfasdfåß∂@#$!@#$@#$@#$!@
+    path: config
